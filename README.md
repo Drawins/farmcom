@@ -1,0 +1,2 @@
+# farmcom
+Strathmore school project
